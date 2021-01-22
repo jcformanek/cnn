@@ -1,2 +1,2 @@
-# Convolutional Neural Netorks
-A repository for testing CNN architectures.
+# Computer vision
+A repository for all things computer vision.
